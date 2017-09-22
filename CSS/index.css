@@ -1,0 +1,132 @@
+body {
+    /*background-color: #EDEDED ; #2E9FFF*/
+    /*background-color: #2E9FFF;*/
+background-image: url("xxx.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    color: #525355;
+    font-family: "ProximaNova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+/*body {*/
+/*    background-color: #E6E6E6;*/
+/*    color: #525355;*/
+/*    font-family: "ProximaNova","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+/*    font-size: 16px;*/
+/*    font-weight: 400;*/
+/*    line-height: 26px;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    position: relative;*/
+/*}*/
+
+
+.FORM {
+    -moz-box-sizing: border-box;
+    /*background: none repeat scroll 0 0 #FFFFFF;*/
+    background: none repeat scroll 0 0 white;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 0 0 0 rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    padding: 30px 40px;
+    width: 478px;
+    margin-top: 100px;
+}
+form {
+    margin-bottom: 0;
+}
+form {
+    margin: 0 0 0px;
+}
+
+.FORM h1 {
+    color: #546673;
+    font-family: "ProximaNova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: center;
+}
+h1 {
+    color: #000000;
+    font-family: "Gotham Rounded A","Gotham Rounded B","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.1em;
+    margin-bottom: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+    font-family: "Gotham Rounded A","Gotham Rounded B","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    margin: 0;
+    text-rendering: optimizelegibility;
+}
+
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    color: #525355;
+    display: inline-block;
+    font-size: 16px;
+    height: 44.2px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    padding: 4px 6px;
+}
+input {
+    border: 2px solid #2E9FFF;
+    opacity:0.5;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: none;
+}
+
+
+input {
+    width: 100%;
+}
+.FORM{
+    position: relative;
+    border: 2px solid #2E9FFF;
+    border-radius:4px;
+    /*opacity:0.8;*/
+}
+
+
+button.submit {
+    background: none repeat scroll 0 0 #2E9FFF;
+    border: medium none;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: none;
+    color: #FFFFFF;
+    padding: 16px 20px;
+    width: 50%;
+    margin: 10px  25%;
+    font-size: 14px;
+}
+
+#resu h1{
+    color: #546673;
+    font-family: "ProximaNova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+.F0RM {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 0 0 0 rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    padding: 15px 40px;
+    width: 478px;
+    margin-top: 10px;
+    border: 2px solid #2E9FFF;
+    border-radius:4px;
+}
